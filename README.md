@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hinna He</h1>
 <h3 align="center">A junior student in Southern Medical University</h3>
 
-- 🌱 I’m currently learning **Bioinformatcis**
+- 🌱 I’m currently learning **Bioinformatics**
 
-- 💬 Ask me about **Seq**
+- 💬 Ask me about **Single-Cell-Analysis**
 
 - 📫 How to reach me **nanh302311@gmail.com**
 </p>
