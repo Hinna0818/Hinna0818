@@ -25,7 +25,7 @@
 ### 📬 Get in Touch
 
 - 📧 Email: **nanh302311@gmail.com**
-- [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6932-3867)
+- [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--6932--3867-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6932-3867)
   
 ---
 
