@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hinna He</h1>
-<h3 align="center">A junior student majoring in Bioinformatics at Southern Medical University</h3>
+<h1 align="center">Hi 👋, I'm Nan He!</h1>
+<h3 align="center">An undergraduate student majoring in Bioinformatics at Southern Medical University</h3>
 
 ---
 
 ### 🔬 About Me
 
 - 🎓 I’m currently an undergraduate student exploring the field of **Bioinformatics**
-- 🧬 Focused on **Multi-Omics Single-Cell RNA-seq**, **Public Database Exploration**, and **AI**
+- 🧬 Focused on **Multi-Omics Single-Cell RNA-seq**, **R package development**, and **AI**
 - 🔧 Currently working with **R** and **Python**
 - 💡 Interested in building **biological databases** and performing **network pharmacology analysis**
 
