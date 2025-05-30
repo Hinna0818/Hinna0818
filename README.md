@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nan He!</h1>
+<h1 align="center">Hi there 👋!</h1>
 <h3 align="center">An undergraduate student majoring in Bioinformatics at Southern Medical University</h3>
 
 ---
