@@ -29,7 +29,4 @@
   
 ---
 
-[![Hinna's github stats](https://github-readme-stats.vercel.app/api?username=Hinna0818 "![Hinna's github stats")](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="center">Thanks for visiting! ⭐️</p>
