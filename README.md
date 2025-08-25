@@ -6,9 +6,9 @@
 ### 🔬 About Me
 
 - 🎓 I’m currently an undergraduate student exploring the field of **Bioinformatics**
-- 🧬 Focused on **Multi-Omics Single-Cell RNA-seq**, **R package development**, and **AI**
-- 🔧 Currently working with **R** and **Python**
-- 💡 Interested in building **biological databases** and performing **network pharmacology analysis**
+- 🧬 Focused on **Multimodal omics analysis**, **R package development**, and **Foundation model for biomedical data**
+- 🧠 Enthusiastic about **integrating single-cell and spatial transcriptomics**, **genetic risk profiling**, and **machine learning into biological discovery**
+- 💡 Interested in building **biomedical knowledge databases** and performing **data mining on clinical and public cohorts (e.g., UK Biobank, CHARLS)**
 
 ---
 
