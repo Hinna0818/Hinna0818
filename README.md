@@ -1,17 +1,6 @@
 <h1 align="center">👋Hi there!</h1>
 <h3 align="center">I'm an undergraduate student majoring in Bioinformatics at Southern Medical University</h3>
 
----
-
-### 🔬 About Me
-
-- 🎓 I’m currently an undergraduate student exploring the field of **Bioinformatics**
-- 🧬 Focused on **Multimodal omics analysis**, **R package development**, and **Foundation model for biomedical data**
-- 🧠 Enthusiastic about **integrating single-cell and spatial transcriptomics**, **genetic risk profiling**, and **machine learning into biological discovery**
-- 💡 Interested in building **biomedical knowledge databases** and performing **data mining on clinical and public cohorts (e.g., UK Biobank, CHARLS)**
-
----
-
 ### 💻 Tools & Languages
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
