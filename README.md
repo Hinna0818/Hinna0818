@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Hinna 👋</h1>
+<h1 align="center">Hi there, I'm Hinna 
+</h1>
 <h3 align="center">An undergraduate student in Bioinformatics at Southern Medical University</h3>
 
 <p align="center">
