@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nan He (Hinna)！ 
 </h1>
-<h3 align="center">An undergraduate student in Bioinformatics at Southern Medical University</h3>
+<h3 align="center">An undergraduate student in Bioinformatics at Southern Medical University.</h3>
 
 <p align="center">
   Passionate about bioinformatics, computational biology, and data-driven biomedical research.
