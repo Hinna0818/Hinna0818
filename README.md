@@ -3,7 +3,7 @@
 <h3 align="center">An undergraduate student in Bioinformatics at Southern Medical University.</h3>
 
 <p align="center">
-  Passionate about bioinformatics, computational biology, and data-driven biomedical research.
+  Passionate about bioinformatics, computational biology, AI, and data-driven biomedical research.
 </p>
 
 <table align="center">
