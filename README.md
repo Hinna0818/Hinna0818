@@ -1,9 +1,13 @@
-<h1 align="center">👋 Hi there, I'm Nan He (Hinna)！ 
-</h1>
-<h3 align="center">I am an incoming PhD student in School of Life Sciences, Tsinghua University.</h3>
+<h1 align="center">👋 Hi there, I'm Nan He (Hinna)!</h1>
+
+<h3 align="center">
+  Incoming PhD student at the School of Life Sciences, Tsinghua University
+</h3>
 
 <p align="center">
-  Passionate about bioinformatics, computational biology, AI, and data-driven biomedical research. My personal website can be found [here](https://hinna0818.github.io/NanHe_website/).
+  Passionate about bioinformatics, computational biology, AI, and data-driven biomedical research.
+  My personal website can be found
+  <a href="https://hinna0818.github.io/NanHe_website/">here</a>.
 </p>
 
 <table align="center">
